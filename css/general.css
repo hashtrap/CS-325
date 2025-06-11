@@ -1,0 +1,10 @@
+body
+{
+    background-color: rgb(53, 53, 53);
+    margin: 0;
+}
+
+h1,h2,h3,p,label
+{
+    color: white;
+}
